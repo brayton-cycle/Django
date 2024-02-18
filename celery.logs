@@ -1,0 +1,190 @@
+[2024-02-18 14:35:15,268: WARNING/MainProcess] C:\Users\vaibh\Music\Trading_Bot\venv\Lib\site-packages\celery\worker\consumer\consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-18 14:35:16,252: INFO/SpawnPoolWorker-10] child process 19980 calling self.run()
+[2024-02-18 14:35:16,255: INFO/SpawnPoolWorker-1] child process 32988 calling self.run()
+[2024-02-18 14:35:16,257: INFO/SpawnPoolWorker-2] child process 18596 calling self.run()
+[2024-02-18 14:35:16,265: INFO/SpawnPoolWorker-4] child process 17128 calling self.run()
+[2024-02-18 14:35:16,282: INFO/SpawnPoolWorker-5] child process 4056 calling self.run()
+[2024-02-18 14:35:16,291: INFO/SpawnPoolWorker-3] child process 30904 calling self.run()
+[2024-02-18 14:35:16,332: INFO/SpawnPoolWorker-12] child process 29836 calling self.run()
+[2024-02-18 14:35:16,357: INFO/SpawnPoolWorker-8] child process 23192 calling self.run()
+[2024-02-18 14:35:16,357: INFO/SpawnPoolWorker-7] child process 23940 calling self.run()
+[2024-02-18 14:35:16,357: INFO/SpawnPoolWorker-6] child process 29480 calling self.run()
+[2024-02-18 14:35:16,357: INFO/SpawnPoolWorker-9] child process 36972 calling self.run()
+[2024-02-18 14:35:16,416: INFO/SpawnPoolWorker-11] child process 19508 calling self.run()
+[2024-02-18 14:35:17,356: INFO/MainProcess] Connected to redis://localhost:6379//
+[2024-02-18 14:35:17,356: WARNING/MainProcess] C:\Users\vaibh\Music\Trading_Bot\venv\Lib\site-packages\celery\worker\consumer\consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-18 14:35:18,771: INFO/SpawnPoolWorker-13] child process 16152 calling self.run()
+[2024-02-18 14:35:19,460: INFO/SpawnPoolWorker-15] child process 25348 calling self.run()
+[2024-02-18 14:35:19,460: INFO/SpawnPoolWorker-14] child process 34856 calling self.run()
+[2024-02-18 14:35:21,424: INFO/MainProcess] mingle: searching for neighbors
+[2024-02-18 14:35:28,539: INFO/MainProcess] mingle: all alone
+[2024-02-18 14:35:36,635: INFO/MainProcess] celery@LAPTOP-RTSC2SU7 ready.
+[2024-02-18 15:15:34,713: WARNING/MainProcess] C:\Users\vaibh\Music\Trading_Bot\venv\Lib\site-packages\celery\worker\consumer\consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-18 15:15:35,669: INFO/SpawnPoolWorker-2] child process 36060 calling self.run()
+[2024-02-18 15:15:35,717: INFO/SpawnPoolWorker-3] child process 19688 calling self.run()
+[2024-02-18 15:15:35,733: INFO/SpawnPoolWorker-5] child process 34004 calling self.run()
+[2024-02-18 15:15:35,733: INFO/SpawnPoolWorker-6] child process 10160 calling self.run()
+[2024-02-18 15:15:35,748: INFO/SpawnPoolWorker-11] child process 30676 calling self.run()
+[2024-02-18 15:15:35,764: INFO/SpawnPoolWorker-1] child process 35664 calling self.run()
+[2024-02-18 15:15:35,764: INFO/SpawnPoolWorker-8] child process 15072 calling self.run()
+[2024-02-18 15:15:35,764: INFO/SpawnPoolWorker-10] child process 12292 calling self.run()
+[2024-02-18 15:15:35,764: INFO/SpawnPoolWorker-7] child process 25036 calling self.run()
+[2024-02-18 15:15:35,796: INFO/SpawnPoolWorker-9] child process 20956 calling self.run()
+[2024-02-18 15:15:35,859: INFO/SpawnPoolWorker-12] child process 10208 calling self.run()
+[2024-02-18 15:15:36,778: INFO/MainProcess] Connected to redis://localhost:6379//
+[2024-02-18 15:15:36,780: WARNING/MainProcess] C:\Users\vaibh\Music\Trading_Bot\venv\Lib\site-packages\celery\worker\consumer\consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-18 15:15:38,288: INFO/SpawnPoolWorker-13] child process 36896 calling self.run()
+[2024-02-18 15:15:38,773: INFO/SpawnPoolWorker-14] child process 25748 calling self.run()
+[2024-02-18 15:15:38,773: INFO/SpawnPoolWorker-16] child process 33092 calling self.run()
+[2024-02-18 15:15:38,773: INFO/SpawnPoolWorker-15] child process 29112 calling self.run()
+[2024-02-18 15:15:38,804: INFO/MainProcess] mingle: searching for neighbors
+[2024-02-18 15:15:45,928: INFO/MainProcess] mingle: all alone
+[2024-02-18 15:15:56,090: INFO/MainProcess] celery@LAPTOP-RTSC2SU7 ready.
+[2024-02-18 15:17:56,029: ERROR/MainProcess] Received unregistered task of type 'hit url'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+https://docs.celeryq.dev/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[["https://public.coindcx.com/market_data/orderbook?pair=B-BTC_USDT"], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (143b)
+
+The full contents of the message headers:
+{'lang': 'py', 'task': 'hit url', 'id': '4e3ebcc8-7772-40e1-a739-e182bbb915f0', 'shadow': None, 'eta': None, 'expires': None, 'group': None, 'group_index': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '4e3ebcc8-7772-40e1-a739-e182bbb915f0', 'parent_id': None, 'argsrepr': "('https://public.coindcx.com/market_data/orderbook?pair=B-BTC_USDT',)", 'kwargsrepr': '{}', 'origin': 'gen38616@LAPTOP-RTSC2SU7', 'ignore_result': False, 'replaced_task_nesting': 0, 'stamped_headers': None, 'stamps': {}}
+
+The delivery info for this task is:
+{'exchange': '', 'routing_key': 'celery'}
+Traceback (most recent call last):
+  File "C:\Users\vaibh\Music\Trading_Bot\venv\Lib\site-packages\celery\worker\consumer\consumer.py", line 658, in on_task_received
+    strategy = strategies[type_]
+               ~~~~~~~~~~^^^^^^^
+KeyError: 'hit url'
+[2024-02-18 15:24:04,532: WARNING/MainProcess] C:\Users\vaibh\Music\Trading_Bot\venv\Lib\site-packages\celery\worker\consumer\consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-18 15:24:05,524: INFO/SpawnPoolWorker-7] child process 38556 calling self.run()
+
+[2024-02-18 15:24:05,571: INFO/SpawnPoolWorker-2] child process 25104 calling self.run()
+[2024-02-18 15:24:05,603: INFO/SpawnPoolWorker-3] child process 23956 calling self.run()
+[2024-02-18 15:24:05,618: INFO/SpawnPoolWorker-1] child process 14864 calling self.run()
+[2024-02-18 15:24:05,649: INFO/SpawnPoolWorker-4] child process 16468 calling self.run()
+[2024-02-18 15:24:05,649: INFO/SpawnPoolWorker-8] child process 33848 calling self.run()
+[2024-02-18 15:24:05,665: INFO/SpawnPoolWorker-10] child process 17816 calling self.run()
+[2024-02-18 15:24:05,681: INFO/SpawnPoolWorker-6] child process 35392 calling self.run()
+[2024-02-18 15:24:05,728: INFO/SpawnPoolWorker-5] child process 4788 calling self.run()
+[2024-02-18 15:24:05,749: INFO/SpawnPoolWorker-11] child process 23520 calling self.run()
+[2024-02-18 15:24:06,584: INFO/MainProcess] Connected to redis://localhost:6379//
+[2024-02-18 15:24:06,584: WARNING/MainProcess] C:\Users\vaibh\Music\Trading_Bot\venv\Lib\site-packages\celery\worker\consumer\consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-18 15:24:07,728: INFO/SpawnPoolWorker-13] child process 28696 calling self.run()
+[2024-02-18 15:24:08,368: INFO/SpawnPoolWorker-14] child process 21960 calling self.run()
+[2024-02-18 15:24:08,628: INFO/MainProcess] mingle: searching for neighbors
+[2024-02-18 15:24:15,711: INFO/MainProcess] mingle: all alone
+[2024-02-18 15:24:25,846: INFO/MainProcess] celery@LAPTOP-RTSC2SU7 ready.
+[2024-02-18 15:26:15,871: ERROR/MainProcess] Received unregistered task of type 'hit url'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+https://docs.celeryq.dev/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[["https://public.coindcx.com/market_data/orderbook?pair=B-BTC_USDT"], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (143b)
+
+The full contents of the message headers:
+{'lang': 'py', 'task': 'hit url', 'id': 'fd175556-33e0-48f2-bdfc-f4588eca4967', 'shadow': None, 'eta': None, 'expires': None, 'group': None, 'group_index': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'fd175556-33e0-48f2-bdfc-f4588eca4967', 'parent_id': None, 'argsrepr': "('https://public.coindcx.com/market_data/orderbook?pair=B-BTC_USDT',)", 'kwargsrepr': '{}', 'origin': 'gen32508@LAPTOP-RTSC2SU7', 'ignore_result': False, 'replaced_task_nesting': 0, 'stamped_headers': None, 'stamps': {}}
+
+The delivery info for this task is:
+{'exchange': '', 'routing_key': 'celery'}
+Traceback (most recent call last):
+  File "C:\Users\vaibh\Music\Trading_Bot\venv\Lib\site-packages\celery\worker\consumer\consumer.py", line 658, in on_task_received
+    strategy = strategies[type_]
+               ~~~~~~~~~~^^^^^^^
+KeyError: 'hit url'
+[2024-02-18 15:29:44,646: WARNING/MainProcess] C:\Users\vaibh\Music\Trading_Bot\venv\Lib\site-packages\celery\worker\consumer\consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-18 15:29:45,738: INFO/SpawnPoolWorker-3] child process 37120 calling self.run()
+[2024-02-18 15:29:45,748: INFO/SpawnPoolWorker-2] child process 9792 calling self.run()
+[2024-02-18 15:29:45,749: INFO/SpawnPoolWorker-4] child process 27236 calling self.run()
+[2024-02-18 15:29:45,753: INFO/SpawnPoolWorker-8] child process 33312 calling self.run()
+[2024-02-18 15:29:45,753: INFO/SpawnPoolWorker-9] child process 23384 calling self.run()
+[2024-02-18 15:29:45,768: INFO/SpawnPoolWorker-7] child process 38480 calling self.run()
+[2024-02-18 15:29:45,768: INFO/SpawnPoolWorker-5] child process 13920 calling self.run()
+[2024-02-18 15:29:45,784: INFO/SpawnPoolWorker-6] child process 36900 calling self.run()
+[2024-02-18 15:29:45,811: INFO/SpawnPoolWorker-12] child process 11868 calling self.run()
+[2024-02-18 15:29:45,811: INFO/SpawnPoolWorker-1] child process 38816 calling self.run()
+[2024-02-18 15:29:45,843: INFO/SpawnPoolWorker-10] child process 9240 calling self.run()
+[2024-02-18 15:29:45,843: INFO/SpawnPoolWorker-11] child process 30632 calling self.run()
+[2024-02-18 15:29:46,698: INFO/MainProcess] Connected to redis://localhost:6379//
+[2024-02-18 15:29:46,702: WARNING/MainProcess] C:\Users\vaibh\Music\Trading_Bot\venv\Lib\site-packages\celery\worker\consumer\consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-18 15:29:48,451: INFO/SpawnPoolWorker-13] child process 38184 calling self.run()
+[2024-02-18 15:29:48,466: INFO/SpawnPoolWorker-14] child process 19980 calling self.run()
+[2024-02-18 15:29:48,748: INFO/MainProcess] mingle: searching for neighbors
+[2024-02-18 15:29:55,835: INFO/MainProcess] mingle: all alone
+[2024-02-18 15:30:05,987: INFO/MainProcess] celery@LAPTOP-RTSC2SU7 ready.
+[2024-02-18 15:30:10,846: ERROR/MainProcess] Received unregistered task of type 'apis.tasks.hit_url'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+https://docs.celeryq.dev/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[["https://public.coindcx.com/market_data/orderbook?pair=B-BTC_USDT"], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (143b)
+
+The full contents of the message headers:
+{'lang': 'py', 'task': 'apis.tasks.hit_url', 'id': '24f764b5-0cc7-4ed5-925d-6d7cfa2ef3a1', 'shadow': None, 'eta': None, 'expires': None, 'group': None, 'group_index': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '24f764b5-0cc7-4ed5-925d-6d7cfa2ef3a1', 'parent_id': None, 'argsrepr': "('https://public.coindcx.com/market_data/orderbook?pair=B-BTC_USDT',)", 'kwargsrepr': '{}', 'origin': 'gen34344@LAPTOP-RTSC2SU7', 'ignore_result': False, 'replaced_task_nesting': 0, 'stamped_headers': None, 'stamps': {}}
+
+The delivery info for this task is:
+{'exchange': '', 'routing_key': 'celery'}
+Traceback (most recent call last):
+  File "C:\Users\vaibh\Music\Trading_Bot\venv\Lib\site-packages\celery\worker\consumer\consumer.py", line 658, in on_task_received
+    strategy = strategies[type_]
+               ~~~~~~~~~~^^^^^^^
+KeyError: 'apis.tasks.hit_url'
