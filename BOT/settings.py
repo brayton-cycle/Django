@@ -31,6 +31,9 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    "channels",
+    "daphne",
+    'apis',
     'django_celery_beat',
     # 'django_celery_results',
     'django.contrib.admin',
@@ -70,6 +73,9 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'BOT.wsgi.application'
+
+ASGI_APPLICATION = 'BOT.asgi.application'
+
 
 
 # Database

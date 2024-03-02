@@ -9,12 +9,12 @@ app.config_from_object("django.conf:settings", namespace = 'CELERY')
 app.conf.result_backend = 'redis://localhost:6379/0'
 app.autodiscover_tasks()
 app.conf.broker_url = BASE_REDIS_URL
-app.conf.beat_schedule = {
-    'hit-url-every-10-seconds': {
-        'task': 'apis.tasks.hit_url',  # Adjust the task name
-        'schedule': 10.0,  # Interval in seconds
-        'args': ('https://public.coindcx.com/market_data/orderbook?pair=B-BTC_USDT',),
-    },
-}
+# app.conf.beat_schedule = {
+#     'hit-url-every-10-seconds': {
+#         'task': 'hit_url',  # Adjust the task name
+#         'schedule': 10.0,  # Interval in seconds
+#         'args': ('https://public.coindcx.com/market_data/orderbook?pair=B-BTC_USDT',),
+#     },
+# }
 app.conf.beat_scheduler = 'celery.beat.PersistentScheduler'
 app.autodiscover_tasks()
