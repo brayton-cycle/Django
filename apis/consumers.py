@@ -35,19 +35,19 @@ class TradeConsumer(AsyncWebsocketConsumer):
             sell = json.loads(sell_response.content.decode('utf-8'))
 
             bids = trade.get("bids", {})
-            max_bid = max(bids, key=lambda k: float(bids[k]))
-            one_rupee_dollars = 1/float(max_bid)
+            max_bid = float(max(bids, key=lambda k: float(bids[k])))-0.001
+            one_rupee_dollars = 1/max_bid
             print( f" 1 rupee will give {one_rupee_dollars} dollars")
 
             bids = buy.get("bids", {})
-            max_bid_sol = max(bids, key=lambda k: float(bids[k]))
-            dollars_sol = 1/float(max_bid_sol)
+            max_bid_sol = float(max(bids, key=lambda k: float(bids[k])))-0.001
+            dollars_sol = 1/max_bid_sol
             one_rupee_dollars_sol = dollars_sol*one_rupee_dollars
             print( f" And these many dollars will give {one_rupee_dollars_sol} SOLs")
 
             asks = sell.get("asks", {})
-            min_ask = min(asks, key=lambda k: float(asks[k]))
-            one_rupee_sol = 1/float(min_ask)
+            min_ask = float(min(asks, key=lambda k: float(asks[k])))+0.001
+            one_rupee_sol = 1/min_ask
             print( f" And one rupee will give {one_rupee_sol} SOLs")
 
             sol_diff = one_rupee_dollars_sol-one_rupee_sol
